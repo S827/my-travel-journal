@@ -6,7 +6,7 @@ export default function Navbar() {
     return (
         <div className='navbar'>
             <GlobeIcon className='globe-icon' />
-            <h3 className='nav-title'>My Travel Journal</h3>
+            <h3 className='nav-title'>my travel journal</h3>
         </div>
     )
 }
