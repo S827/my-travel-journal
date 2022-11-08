@@ -19,3 +19,13 @@ body {
   color: white;
   font-size: 14px;
 }
+
+.location-img {
+  width: 125px;
+  height: 168px;
+  border-radius: 5px;
+}
+
+.hero-div {
+  padding: 20px;
+}

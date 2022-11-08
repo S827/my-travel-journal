@@ -1,7 +1,16 @@
 import React from 'react'
-
-export default function Hero() {
+import Map from '../Icons/map'
+// import Data from 'data'
+export default function Hero(props) {
     return (
-        <div>Hello hero</div>
+        <div className='hero-div'>
+            {props.item.title}
+            <div>
+                <img className='location-img' src={props.item.imageUrl} />
+            </div>
+            <div>
+                <Map />
+            </div>
+        </div>
     )
 }
