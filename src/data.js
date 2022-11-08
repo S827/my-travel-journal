@@ -5,7 +5,7 @@ export default [
         googleMapsUrl: "https://goo.gl/maps/iKMfEZPEKrsHaREf6",
         startDate: "04 Feb, 2018",
         endDate: "15 Feb, 2018",
-        description: "Yangon (formerly known as Rangoon) is the largest city in Myanmar (formerly Burma). A mix of British colonial architecture, modern high-rises and gilded Buddhist pagodas define its skyline. Its famed Shwedagon Paya, a huge, shimmering pagoda complex, draws thousands of pilgrims annually. The city's other notable religious sites include the Botataung and Sule pagodas, both housing Buddhist relics.",
+        description: "Yangon (formerly known as Rangoon) is the largest city in Myanmar (formerly Burma). A mix of British colonial architecture, modern high-rises and gilded Buddhist pagodas define its skyline. Its famed Shwedagon Paya, a huge, shimmering pagoda complex, draws thousands of pilgrims annually.",
         imageUrl: "https://www.wendywutours.com.au/resource/upload/734/banner-yangon.jpg"
     },
     {
@@ -33,7 +33,7 @@ export default [
         startDate: "10 Jan, 2019",
         endDate: "21 Jan, 2019",
         description: "Ho Chi Minh City, formerly known as Saigon, is the largest city in Vietnam, with a population of around 9 million in 2019. Situated in the southeast region of Vietnam, the city surrounds the Saigon River and covers about 2,061 km².",
-        imageUrl: "https://www.timeoutabudhabi.com/cloud/timeoutabudhabi/2021/09/12/yjVlJCSV-Cairo_1-1.jpg"
+        imageUrl: "https://pullman.accor.com/destinations/city/ho-chi-minh-1400x788-1.jpg"
     },
     {
         title: "Zurich",
